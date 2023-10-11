@@ -1,11 +1,19 @@
 <h1 align="center">Unique</h1>
 <h3 align="center">ПРОЕКТ "Fundle"</h3>
 <h3 align="center">Funlde - это внутренняя валюта AccelProIT, чтобы научить школьников и будущие стартапы финансововой грамотности</h3>
-<h2>Мы делаем веб-платформу, 
-Стек-технологий разработчика: Visual Studio Code.
-с приминением: tailwindcss (CSS), simplebox(JS), PHP, PhpMyAdmin (bd).
-Стек-технологий менеджера: FigJam, Figma
-Стек-технологий дизайнера: Figma</2h>
+<h3 align="center">Функциональные возможности</h3>
+<h2>coming soon</h2>
+<h2>Мы делаем веб-платформу</2h>
+<h3></h3>
+<h1>Технологии</h1>
+  <h2>PHP</h2>
+  <h2>Taliwindcss</h2>
+  <h2>React JS</h2>
+  <h2>JS</h2>
+  <h2>Animate On Scroll Library</h2>
+  <h2>PhpMyAdmin</h2>
+  <h2>SQL</h2>
+  <h2>Reg.ru(домен)</h2>
 <h1>Наш сайт</h1>
 <h2>http://fundle.ru</h2>
 <h2 align="center">Наша команда</h2>
